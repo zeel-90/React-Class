@@ -1,4 +1,6 @@
-## Namaste React
+## Namaste React 
+
+## This is just a demo to learn the react
 
 # _Episode 01 - Inception_
 
